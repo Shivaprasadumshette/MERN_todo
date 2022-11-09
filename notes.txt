@@ -1,0 +1,15 @@
+difference between library and framwork
+react states
+
+steps 
+
+client 
+npx create.......
+--pub lic html
+main thing is in src
+server
+
+
+controlers actual function 
+model scheema 
+routes api calls 
